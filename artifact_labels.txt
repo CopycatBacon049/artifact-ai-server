@@ -1,0 +1,5 @@
+ancient_coin
+arrowheads
+clay_pipe
+metal_fragment
+pottery_shard
